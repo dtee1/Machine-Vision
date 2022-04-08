@@ -1,8 +1,5 @@
-
-
 % Course: ELG 5163
-% Student name: David Talson
-% Student number: 
+% Student name: David Talson 
 clc; clear; clear all;
 
 % Effect of noise and image filtering 
